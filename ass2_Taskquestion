@@ -1,0 +1,6 @@
+Problem Statement:
+You work for XYZ Corporation. Their application requires a storage service that
+can store files and publicly share them if required. Implement S3 for the same.
+Tasks To Be Performed:
+1. Enable versioning for the bucket created in task 1.
+2. Re-upload any 2 files already uploaded to verify if versioings works
