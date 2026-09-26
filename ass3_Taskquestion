@@ -1,0 +1,9 @@
+Problem Statement:
+You work for XYZ Corporation. Their application requires a storage service that
+can store files and publicly share them if required. Implement S3 for the same.
+Tasks To Be Performed:
+1. Use the created bucket in the previous task to host static websites, upload
+an index.html file and error.html page.
+2. Add a lifecycle rule for the bucket:
+a. Transition from Standard to Standard-IA in 60 days
+b. Expiration in 200 days
